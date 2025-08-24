@@ -22,14 +22,14 @@ Este proyecto es una aplicación sencilla en **JavaScript, HTML y CSS** que perm
 
 ---
 
-## ▶️ Cómo jugar
+##  Cómo jugar
 
 1. Escribe el nombre de un amigo en el campo de texto.
 2. Haz clic en **Añadir** para sumarlo a la lista.
 3. Repite el proceso hasta tener todos los nombres.
-4. Haz clic en **Sortear Amigo** para seleccionar uno al azar 🎁.
+4. Haz clic en **Sortear Amigo** para seleccionar uno al azar .
 
 ---
 
-## ✨ Autor
-Desarrollado por **David Santiago López Pérez** 💻
+## Autor
+Desarrollado por **David Santiago López Pérez**
